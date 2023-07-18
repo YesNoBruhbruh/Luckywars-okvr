@@ -1,0 +1,17 @@
+Todo:
+
+fix team game modes
+
+dont do anything related to the lobby anymore let other plugins handle it
+
+Do the following after everything else perfectly works.
+
+GameMode (with api)
+coins (with api)
+kits (with api)
+level system (with api)
+cosmetics (with api)
+luckyblock (with api)
+
+Do the following if you decide to
+add bungee support
